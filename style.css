@@ -170,9 +170,10 @@ h2{
     margin:20px;
     width: 80%;
     height: 400px;
+    transform: translate(250px , 20px);
 }
 .subtitle{
-    background-image: linear-gradient(to top, fuchsia, pink);
+    background-image: linear-gradient(to top, rgba(255, 0, 170, 0.842), pink);
 }
 footer{
     width: 100vp;
